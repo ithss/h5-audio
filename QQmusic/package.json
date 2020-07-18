@@ -1007,7 +1007,7 @@
     "livereload-js": "^2.4.0",
     "lazy-cache": "^1.0.4",
     "load-json-file": "^1.1.0",
-    "lodash": "^1.0.2",
+    "lodash": "^4.17.19",
     "lodash._basecopy": "^3.0.1",
     "lodash._basevalues": "^3.0.0",
     "lodash._basetostring": "^3.0.1",
