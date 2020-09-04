@@ -814,7 +814,7 @@
     "decamelize": "^1.2.0",
     "dateformat": "^2.2.0",
     "decode-uri-component": "^0.2.0",
-    "decompress": "^3.0.0",
+    "decompress": "^4.2.1",
     "decompress-tarbz2": "^3.1.0",
     "decompress-unzip": "^3.4.0",
     "decompress-tar": "^3.1.0",
